@@ -24,7 +24,6 @@
 
 [[**Confidential Containers: Why, How, and Where Are We? - Magnus Kulke, Microsoft**](https://www.youtube.com/watch?v=6fbzHTJk6BE&list=PLbzoR-pLrL6oEe9czYPzKWD5KS3pxdGnZ&ab_channel=TheLinuxFoundation)]
 
-[**Tutorial: Developing Portable eBPF Applications Workshop - Lin Sun, solo.io**]
 [[**Secure the Linux Kernel with eBPF Linux Security Module - Vandana Salve, Independent Consultant**](https://www.youtube.com/watch?v=_tG1G6Oewc4&list=PLbzoR-pLrL6o8n8NBZdFHaljWqe1LEQv0&index=6&ab_channel=TheLinuxFoundation)]
 
 [[**Expanding eBPF’s Reach: From Batteries-Included Auto-Instrumentation To E2E Observab... Dom Del Nano**](https://www.youtube.com/watch?v=I236sjooftw&list=PLj6h78yzYM2MP0QhYFK8HOb8UqgbIkLMc&index=237&ab_channel=CNCF[CloudNativeComputingFoundation])]
