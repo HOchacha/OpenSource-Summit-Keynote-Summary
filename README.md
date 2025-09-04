@@ -23,6 +23,7 @@
 ## OpenSource Summit 2023 EU
 
 [[**A WASM Runtime for FaaS Protected by TEE - Sara Wang & Yongli He, Intel**](https://www.youtube.com/watch?v=lDmSg9uNkH4&list=PLbzoR-pLrL6prBc8UnTQ9wI3BvFYp17Xp&index=19&ab_channel=TheLinuxFoundation)]
+
 [[**Tutorial: Linux Memory Management and Containers - Gerlof Langeveld, AT Computing**](https://www.youtube.com/watch?v=ql1axx--8sI&list=PLbzoR-pLrL6oEe9czYPzKWD5KS3pxdGnZ&index=15&ab_channel=TheLinuxFoundation)]
 
 [[**Exotic Runtime Targets: Ruby and Wasm on Kubernetes and GitOps Delivery Pipelines - Kingdon Barrett**](https://www.youtube.com/watch?v=EsAuJmHYWgI&list=PLbzoR-pLrL6prBc8UnTQ9wI3BvFYp17Xp&ab_channel=TheLinuxFoundation)]
