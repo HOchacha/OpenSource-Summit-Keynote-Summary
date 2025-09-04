@@ -1,5 +1,6 @@
 # OpenSouece Summit Keynote Summary
 - Summary with Gen AI, also all of the topics are selective.
+- on the summary folder, you can find summary notes. 
 
 ## Linux Security Summit 2023 NA
 
